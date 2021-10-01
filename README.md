@@ -1,2 +1,2 @@
 # Teste!
- Primeiro repositório no GitHub
+ Primeiro repositório no GitHub.
